@@ -17,7 +17,7 @@ public class SwichCase {
                System.out.println("NO word found");
                break;
 
-               
+  
         }
     }
     
