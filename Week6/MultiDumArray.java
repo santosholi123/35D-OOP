@@ -18,7 +18,7 @@ public class MultiDumArray {
         [0,0,0,0,0]  ->2
        ] */
        /* to take the first inner array use index  */
-        twoDarray [0]  ;
+        twoDarray [0] ;
        /*to take the value in first inner array use internal index */
        twoDarray [0] [0]=10;
        twoDarray [0] [1]=20;
@@ -40,7 +40,6 @@ public class MultiDumArray {
          * 110
          * 120
          * Note: without using loop
-         */
-                           
+         */           
   }  
 }
